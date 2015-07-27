@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8B7DF799-4FAE-472E-AA25-FAF59737A583</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SimpleWeather</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>90DAD1CCC30B0C90F89178A8705E80C86BC5115D</key>
+		<string>https://github.com/justin15j/GolfTracker.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SimpleWeather/SimpleWeather.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>90DAD1CCC30B0C90F89178A8705E80C86BC5115D</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/justin15j/GolfTracker.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>90DAD1CCC30B0C90F89178A8705E80C86BC5115D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>90DAD1CCC30B0C90F89178A8705E80C86BC5115D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>My-iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
